@@ -16,7 +16,7 @@ We list the links of the used datasets and check carefully their licenses for ou
 [CIFAR-10](https://www.cs.toronto.edu/kriz/cifar.html),
 [CIFAR-10-C](https://github.com/hendrycks/robustness).
 
-### Preparation
+### Preperation
 Logits are generated with "test_(model)_(dataset.py)" and "gen_ood_logits.py". 
 Logits are stored in `logits` dir.
 ```

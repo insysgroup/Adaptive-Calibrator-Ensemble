@@ -47,3 +47,18 @@ Run our alternative method with these three baselines (*i.e.,* Vector Scaling, T
 python run_estimate_ratio.py --files <'resnet50_files', 'resnet152_files', 'vit_small_patch32_224_files', 'deit_small_patch16_224_files'>
 ```
 
+### Bibtex
+```
+@InProceedings{Zou_2023_ICCV,
+    author    = {Zou, Yuli and Deng, Weijian and Zheng, Liang},
+    title     = {Adaptive Calibrator Ensemble: Navigating Test Set Difficulty in Out-of-Distribution Scenarios},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {19333-19342}
+}
+```
+
+<!---
+![image](https://github.com/insysgroup/Adaptive-Calibrator-Ensemble/blob/master/iccv_poster.png)
+--->
